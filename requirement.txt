@@ -1,7 +1,9 @@
  reservation     
  train numbers
 train Names
-
 AC coach
 Sleeper Coach
 General coach
+type of trains
+arrival time
+departure time
