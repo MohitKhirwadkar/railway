@@ -1,0 +1,7 @@
+ reservation     
+ train numbers
+train Names
+
+AC coach
+Sleeper Coach
+General coach
